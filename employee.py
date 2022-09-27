@@ -105,7 +105,6 @@ jan = Employee(
     }
 )
 
-print(jan)
 
 # Robbie works on a monthly salary of 2000 and receives a bonus commission of 1500.  Their total pay is 3500.
 robbie = Employee(
@@ -120,8 +119,6 @@ robbie = Employee(
     }
 )
 
-print(robbie)
-
 # Ariel works on a contract of 120 hours at 30/hour and receives a bonus commission of 600.  Their total pay is 4200.
 ariel = Employee(
     'Ariel',
@@ -135,5 +132,3 @@ ariel = Employee(
         "pay": 600
     }
 )
-
-print(ariel)
