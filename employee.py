@@ -1,9 +1,6 @@
 """Employee pay calculator."""
 """ENTER YOUR SOLUTION HERE!"""
 
-from tkinter import E
-
-
 class Employee:
     def __init__(self, name, contract, commission=None):
         self.name = name
